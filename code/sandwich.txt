@@ -1,0 +1,14 @@
+estimate: 15 lines
+
+Pick up one piece of bread
+pick up knife
+unscrew peanut butter lid
+put knife in peanut butter
+spread peanut butter on bread in hand
+pick up napkin
+wipe off knife with napkin
+put knife in jelly
+spread jelly on bread in hand
+pick up other piece of bread
+combine pieces of bread together
+eat
